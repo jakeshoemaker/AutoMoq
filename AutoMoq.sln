@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMoq", "AutoMoq\AutoMoq.csproj", "{CD8444CD-2568-465D-B566-C93E59106ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqApi", "MoqApi\MoqApi.csproj", "{710ABA5E-63F5-4AD6-B665-F0B0F1073152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8444CD-2568-465D-B566-C93E59106ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8444CD-2568-465D-B566-C93E59106ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8444CD-2568-465D-B566-C93E59106ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8444CD-2568-465D-B566-C93E59106ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81AD97D4-9A33-489D-A4EA-1A222BBA0DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AD97D4-9A33-489D-A4EA-1A222BBA0DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AD97D4-9A33-489D-A4EA-1A222BBA0DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AD97D4-9A33-489D-A4EA-1A222BBA0DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710ABA5E-63F5-4AD6-B665-F0B0F1073152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710ABA5E-63F5-4AD6-B665-F0B0F1073152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710ABA5E-63F5-4AD6-B665-F0B0F1073152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710ABA5E-63F5-4AD6-B665-F0B0F1073152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
